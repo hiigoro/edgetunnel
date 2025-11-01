@@ -1,7 +1,7 @@
 import { connect } from 'cloudflare:sockets';
 
 let proxyIP = '13.230.34.30'; // proxyip
-let yourUUID = '93bf61d9-3796-44c2-9b3a-49210ece2585';  // uuid
+let yourUUID = 'c1822e43-0e8d-4a20-9c86-a32f595ce953';  // uuid
 
 // CDN
 let cfip = [
